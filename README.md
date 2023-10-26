@@ -26,7 +26,7 @@ Greetings! Below, you'll find a more detailed guide on how to run the code for t
 
 3. To modify the search pattern, replacement pattern, and directory, simply edit the following lines in the `main.groovy` file:
 
-   ![image](https://github.com/ReynerBadilla/Accenture-Coding-Exercise/assets/122590811/fc3bccbc-e532-481a-b220-a126ded0a967)
+   ![image](https://github.com/ReynerBadilla/Accenture-Coding-Exercise/assets/122590811/90f40e43-d87f-40f0-9075-2867f2f1b92a)
 
 5. Finally, to run the project, use the command:
 
