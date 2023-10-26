@@ -1,0 +1,37 @@
+
+Start time: 26-Oct-2023 10:51:48
+Total files analyzed: 1
+Complete replacement. The following files contain pattern 'serves' and were modified with pattern 'new_serves': .\files\sub\sub_explanation.txt 
+End time: 26-Oct-2023 10:51:48
+
+Start time: 26-Oct-2023 10:56:54
+Total files analyzed: 9
+No matches found for pattern 'Rebeca' in the files.
+End time: 26-Oct-2023 10:56:54
+
+Start time: 26-Oct-2023 10:59:09
+Total files analyzed: 5
+Complete replacement. The following files contain pattern 'of' and were modified with pattern '?': .\files\src\budget_2023.txt .\files\src\resources\image_ideas.txt .\files\src\resources\songs_list.txt .\files\src\user_preferences.txt .\files\src\utility_note.txt 
+End time: 26-Oct-2023 10:59:09
+
+Start time: 26-Oct-2023 14:09:28
+Total files analyzed: 5
+Error when parsing files, description: groovy.lang.MissingPropertyException: No such property: list for class: SearchAndReplace
+Possible solutions: class
+End time: 26-Oct-2023 14:09:29
+
+Start time: 26-Oct-2023 14:10:47
+Total files analyzed: 5
+No matches found for pattern 'of' in the files.
+End time: 26-Oct-2023 14:10:47
+
+Start time: 26-Oct-2023 14:13:40
+Total files analyzed: 9
+Complete replacement. The following files contain pattern 'Jackson' and were modified with pattern 'Jordan': .\files\src\resources\songs_list.txt 
+End time: 26-Oct-2023 14:13:40
+
+Start time: 26-Oct-2023 15:15:56
+Total files analyzed: 9
+No matches found for pattern 'Jackson' in the files.
+End time: 26-Oct-2023 15:15:56
+
