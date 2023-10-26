@@ -10,7 +10,7 @@ Greetings! Below, you'll find a more detailed guide on how to run the code for t
 
 2. The following is the project's structure. You'll find a description of each part of the project below:
 
-   ![image](https://github.com/ReynerBadilla/Accenture-Coding-Exercise/assets/122590811/bb6c3d90-0aeb-45e3-9dc9-6ce3c0e994fa)
+   ![image](https://github.com/ReynerBadilla/Accenture-Coding-Exercise/assets/122590811/f88ce50b-c8aa-4795-a9b0-5d20d4d4cc21)
 
    a. **backups**: This is a folder where backups of modified files will be stored. Each file will have its own folder, and the folder structure will be "backup_yyyyMMddHHmmss_file_name."
 
