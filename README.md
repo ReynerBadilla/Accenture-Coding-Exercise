@@ -10,7 +10,7 @@ Greetings! Below, you'll find a more detailed guide on how to run the code for t
 
 2. The following is the project's structure. You'll find a description of each part of the project below:
 
-   ![image](https://github.com/ReynerBadilla/Accenture-Coding-Exercise/assets/122590811/0812e62c-dc2c-40c4-a47c-0eda0a9af87e)
+   ![image](https://github.com/ReynerBadilla/Accenture-Coding-Exercise/assets/122590811/bb6c3d90-0aeb-45e3-9dc9-6ce3c0e994fa)
 
    a. **backups**: This is a folder where backups of modified files will be stored. Each file will have its own folder, and the folder structure will be "backup_yyyyMMddHHmmss_file_name."
 
@@ -26,7 +26,7 @@ Greetings! Below, you'll find a more detailed guide on how to run the code for t
 
 3. To modify the search pattern, replacement pattern, and directory, simply edit the following lines in the `main.groovy` file:
 
-   ![image](https://github.com/ReynerBadilla/Accenture-Coding-Exercise/assets/122590811/bce7d116-2904-4bc5-9e97-ca0abd6e9003)
+   ![image](https://github.com/ReynerBadilla/Accenture-Coding-Exercise/assets/122590811/fc3bccbc-e532-481a-b220-a126ded0a967)
 
 5. Finally, to run the project, use the command:
 
